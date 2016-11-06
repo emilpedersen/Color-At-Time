@@ -4,12 +4,13 @@ Time of day as a color.
 
 If it's 8:45, the color is '#084500'.
 
+
 ## Building
 
 Xcode 8 is required since it's written in Swift 3.
 
 
-
+## License
 
 MIT License
 
